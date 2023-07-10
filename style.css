@@ -105,3 +105,15 @@
     text-align: center;
 
 }
+
+/* optional part style */
+.optional-part {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 1240px;
+    height: 220px;
+    background-color: rgba(39, 39, 39, 0.05);
+}
