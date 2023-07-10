@@ -194,4 +194,18 @@ latest-deal part */
     text-align: center;
     background-color: aqua;
     padding: 65px;
+
+}
+
+.footer-container {
+    width: 1922px;
+    height: 449px;
+    background-color: #111010;
+    margin-top: 50px;
+    color: #FFF;
+    text-align: center;
+}
+
+.footer-span {
+    color: #E55473;
 }
