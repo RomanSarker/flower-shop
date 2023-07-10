@@ -120,12 +120,29 @@
 
 .hot-deals-container {
     width: 1922px;
-    height: 520px;
+    height: 420px;
     display: flex;
     background-color: #E554730D;
     margin-top: 50px;
+    gap: 200px;
 }
 
 .deal-title {
     margin: 50px;
+}
+
+.off-color {
+    color: #E55473;
+}
+
+/* social part */
+.social-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.rectangle1 {
+    display: flex;
+    gap: 6px;
 }
