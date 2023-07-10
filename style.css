@@ -146,3 +146,34 @@
     display: flex;
     gap: 6px;
 }
+
+/* 
+latest-deal part */
+.latest-deal-container {
+    position: relative;
+
+}
+
+.latest-deal-desc {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+
+}
+
+.deal-text-box {
+    width: 150px;
+    height: 62;
+}
+
+.latest-deal-desc {
+    text-align: center;
+}
+
+.latest-img {
+    margin-top: 30px;
+
+}
+
+/* 
+latest-deal part */
