@@ -177,3 +177,18 @@ latest-deal part */
 
 /* 
 latest-deal part */
+.bonus-part {
+    display: flex;
+    gap: 25px;
+    margin-top: 40px;
+    width: 1400px;
+    height: 240px;
+    background-color: rgb(25, 2, 61);
+    color: #E55473;
+}
+
+.feedback-heading {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+}
