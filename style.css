@@ -117,3 +117,15 @@
     height: 220px;
     background-color: rgba(39, 39, 39, 0.05);
 }
+
+.hot-deals-container {
+    width: 1922px;
+    height: 520px;
+    display: flex;
+    background-color: #E554730D;
+    margin-top: 50px;
+}
+
+.deal-title {
+    margin: 50px;
+}
