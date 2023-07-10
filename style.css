@@ -162,8 +162,9 @@ latest-deal part */
 }
 
 .deal-text-box {
-    width: 150px;
-    height: 62;
+    width: 350px;
+    height: 62px;
+
 }
 
 .latest-deal-desc {
@@ -188,7 +189,9 @@ latest-deal part */
 }
 
 .feedback-heading {
+    background-image: url("./assets/Group\ 59.png");
+    background-repeat: no-repeat;
     text-align: center;
     background-color: aqua;
-    padding: 10px;
+    padding: 65px;
 }
