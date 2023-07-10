@@ -4,7 +4,45 @@
 }
 
 .first-section {
+    display: flex;
     width: 1920px;
     height: 850px;
     background-color: rgba(229, 84, 115, 0.10);
+
+
+}
+
+.first-section-title {
+    margin-top: 200px;
+    margin-bottom: 250px;
+
+
+}
+
+.first-section-head {
+    margin: 100px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.first-section-paragraph {
+    margin: 100px;
+    margin-top: 1px;
+    font-size: 12px;
+
+
+}
+
+.btn-primary {
+    margin: 100px;
+    background-color: #E55473;
+    color: #FFF;
+    padding: 20px 43px;
+    border-radius: 8px;
+}
+
+.first-section-flower {
+    width: 435px;
+    height: 600px;
 }
