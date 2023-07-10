@@ -36,6 +36,7 @@
 
 .btn-primary {
     margin: 100px;
+    font-size: 15px;
     background-color: #E55473;
     color: #FFF;
     padding: 20px 43px;
@@ -45,4 +46,8 @@
 .first-section-flower {
     width: 435px;
     height: 600px;
+    margin: 50px;
+
 }
+
+/* 2nd section Features section style */
