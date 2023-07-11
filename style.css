@@ -55,28 +55,29 @@
 
 /* 2nd section Features section style */
 .second-section {
-    text-align: center;
     margin: 120px 150px 120px 150px;
-    display: flex;
-    gap: 3px;
-}
-
-
-.second-sec-title {
     text-align: center;
-    padding-top: 20px;
+}
+
+.all-flower {
+    display: flex;
+    gap: 10px;
+    height: 420px;
 }
 
 
-/* .second-flower-container {
-    display: flex;
-    gap: 4;
-    justify-content: space-between;
-    max-height: 300px;
-    margin: 20px 0px;
+.underline-style {
+    color: #272727;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 20px;
+}
 
 
-} */
+/* hoia ja */
 
 .first-flower-container {
     background-color: rgba(167, 33, 98, 0.15);
@@ -85,7 +86,7 @@
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
     padding-top: 60px;
-    height: 420px;
+    height: 430px;
     text-align: center;
 }
 
@@ -94,7 +95,7 @@
     border: 1px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    padding-top: 50px;
+    padding-top: 70px;
     height: 420px;
     text-align: center;
 
@@ -105,11 +106,16 @@
     border: 1px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    padding-top: 50px;
-    height: 420px;
+    padding-top: 10px;
+    height: 475px;
     text-align: center;
 
 }
+
+
+
+/* 2nd section Features section style */
+
 
 /* optional part style */
 .optional-part {
