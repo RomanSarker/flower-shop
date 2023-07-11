@@ -60,6 +60,7 @@
 
 .second-sec-title {
     text-align: center;
+    padding-top: 20px;
 }
 
 
@@ -138,6 +139,7 @@
 /* social part */
 .social-title {
     text-align: center;
+    margin-top: 60px;
     margin-bottom: 30px;
 }
 
@@ -188,6 +190,7 @@ latest-deal part */
     color: #E55473;
 }
 
+/* bonus */
 .feedback-heading {
     background-image: url("./assets/Group\ 59.png");
     background-repeat: no-repeat;
@@ -195,6 +198,10 @@ latest-deal part */
     background-color: aqua;
     padding: 65px;
 
+}
+
+.bonus-para {
+    color: #FFF;
 }
 
 .footer-container {
