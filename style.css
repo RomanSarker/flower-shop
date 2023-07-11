@@ -5,35 +5,33 @@
 
 /* first-section style */
 
-.first-section {
+.header-portion {
+    background-color: #FFF8F3;
+    max-height: 850px;
+}
+
+.container {
     display: flex;
-    width: 1920px;
-    height: 850px;
-    background-color: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 150px 0px 150px;
+}
 
+.banner-content {
+    max-width: 60%;
 
 }
 
-.first-section-title {
-    margin-top: 200px;
-    margin-bottom: 250px;
-
-
+.banner .header-img {
+    max-width: 40%;
 }
 
-.first-section-head {
-    margin: 100px;
+.header-title {
+    color: #272727;
     font-size: 40px;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-}
-
-.first-section-paragraph {
-    margin: 0 100px 100px 100px;
-    margin-top: 10px;
-    font-size: 12px;
-
-
+    font-weight: 800;
+    margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 .btn-primary {
@@ -42,6 +40,7 @@
     background-color: #E55473;
     color: #FFF;
     padding: 20px 43px;
+    border: 0px;
     border-radius: 8px;
 }
 
