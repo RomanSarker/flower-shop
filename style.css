@@ -3,6 +3,8 @@
     padding: 0px;
 }
 
+/* first-section style */
+
 .first-section {
     display: flex;
     width: 1920px;
@@ -49,6 +51,8 @@
     margin: 50px;
 
 }
+
+/* first-section style */
 
 /* 2nd section Features section style */
 .second-section {
