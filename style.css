@@ -27,8 +27,8 @@
 }
 
 .first-section-paragraph {
-    margin: 100px;
-    margin-top: 1px;
+    margin: 0 100px 100px 100px;
+    margin-top: 10px;
     font-size: 12px;
 
 
@@ -64,15 +64,15 @@
 }
 
 
-.second-flower-container {
+/* .second-flower-container {
     display: flex;
     gap: 4;
     justify-content: space-between;
-    max-height: 500px;
+    max-height: 300px;
     margin: 20px 0px;
 
 
-}
+} */
 
 .first-flower-container {
     background-color: rgba(167, 33, 98, 0.15);
@@ -80,7 +80,7 @@
     border: 1px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
-    padding-top: 50px;
+    padding-top: 60px;
     height: 420px;
     text-align: center;
 }
@@ -195,8 +195,9 @@ latest-deal part */
     background-image: url("./assets/Group\ 59.png");
     background-repeat: no-repeat;
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(12, 71, 71);
     padding: 65px;
+    border-radius: 90%;
 
 }
 
@@ -204,11 +205,14 @@ latest-deal part */
     color: #FFF;
 }
 
+
+
 .footer-container {
     width: 1422px;
     height: 149px;
+    padding-top: 40px;
     background-color: #111010;
-    margin-top: 50px;
+    margin-top: 40px;
     color: #FFF;
     text-align: center;
 }
